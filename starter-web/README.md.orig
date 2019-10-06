@@ -1,0 +1,14 @@
+# Starter Web Repo
+
+This repository is for showing how Git and GitHub work
+<<<<<<< HEAD
+Adding line of text.More text from myfeature branch.
+Some more lines of text.
+
+=======
+Adding line of text.More text from myfeature branch
+Some more text lines.
+>>>>>>> newline
+## Purpose
+
+Sample website with plenty of files for demos

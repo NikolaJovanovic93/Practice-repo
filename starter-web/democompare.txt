@@ -1,0 +1,7 @@
+This file will be used in compare examples
+Addin changes to this file 
+More text for practice purpose
+Even more text for practice purpose
+
+
+
